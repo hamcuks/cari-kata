@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"ucing","characterIndex":0,"characterName":"ucing_1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Ucing","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ucing","nickname":"Ucing","note":"","profile":"Ras campuran kucing dan koala ahahaha"},
+{"id":2,"battlerName":"acan","characterIndex":0,"characterName":"acan_1","classId":4,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"acan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Acan","nickname":"Acan","note":"","profile":"Kombinasi ras macan"}
+]
